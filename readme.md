@@ -1,3 +1,6 @@
+Run npm i to install node_modules
+Run npm start to start the app
+
 Open Postman and create a new request.
 Set the request method to GET.
 Set the request URL to http://localhost:8080/api.
